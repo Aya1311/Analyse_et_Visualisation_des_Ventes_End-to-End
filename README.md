@@ -1,4 +1,4 @@
-# Projet : Analyse et Visualisation des Ventes (End-to-End)
+# Analyse et Visualisation des Ventes (End-to-End)
 
 ## Description
 Ce projet illustre une solution complète et intégrée pour l'analyse des ventes, comprenant la génération de données, la préparation et la modélisation des données, la création de visualisations interactives, ainsi que la planification et la conteneurisation pour une présentation efficace. Le projet suit un flux de travail structuré qui garantit des résultats exploitables à chaque étape du processus. **Les données utilisées dans ce projet sont entièrement fictives et générées à des fins de démonstration.**
