@@ -1,0 +1,11 @@
+country_key;country_name;region;currency_code;language
+33;France;Europe;EUR;Français
+49;Allemagne;Europe;EUR;Allemand
+44;Royaume-Uni;Europe;GBP;Anglais
+39;Italie;Europe;EUR;Italien
+34;Espagne;Europe;EUR;Espagnol
+1;États-Unis;Amérique;USD;Anglais
+55;Brésil;Amérique;BRL;Portugais
+81;Japon;Asie;JPY;Japonais
+86;Chine;Asie;CNY;Chinois
+91;Inde;Asie;INR;Hindi/Anglais
