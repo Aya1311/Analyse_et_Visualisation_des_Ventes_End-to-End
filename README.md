@@ -8,7 +8,7 @@ Ce projet illustre une solution complète et intégrée pour l'analyse des vente
 Voici les maquettes utilisées pour concevoir le tableau de bord :
 
 ### 🔹 Vue d'ensemble du Dashboard
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Mockup/Sales_review_mockup.jpg)
 
 ### 🔹 Analyse des Clients
 ![Customer Analysis](images/customer_analysis.png)
