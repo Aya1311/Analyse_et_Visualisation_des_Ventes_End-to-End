@@ -25,7 +25,7 @@ Le projet est conteneurisé avec Docker pour une meilleure gestion :
 ![Dashboard  Overview](Plan_Conteunerisation/Summary_plan.png)
 
 ### 🔹 Analyse des Clients
-![Customer  Analysis](Plan_Conteunerisation/Customer_plan.png)
+![Customer  Analysis](Plan_Conteunerisation/Customer_Plan.png)
 
 ### 🔹 Performances des Produits
 ![Product  Performance](Plan_Conteunerisation/Productplan.png)
