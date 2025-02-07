@@ -2,7 +2,28 @@
 
 ## Description
 Ce projet illustre une solution complète et intégrée pour l'analyse des ventes, comprenant la génération de données, la préparation et la modélisation des données, la création de visualisations interactives, ainsi que la planification et la conteneurisation pour une présentation efficace. Le projet suit un flux de travail structuré qui garantit des résultats exploitables à chaque étape du processus. **Les données utilisées dans ce projet sont entièrement fictives et générées à des fins de démonstration.**
+---
 
+## 🎨 **Maquettes et Conception**
+Voici les maquettes utilisées pour concevoir le tableau de bord :
+
+### 🔹 Vue d'ensemble du Dashboard
+![Dashboard Overview](images/dashboard_overview.png)
+
+### 🔹 Analyse des Clients
+![Customer Analysis](images/customer_analysis.png)
+
+### 🔹 Performances des Produits
+![Product Performance](images/product_performance.png)
+
+---
+
+## 📦 **Plan de Conteneurisation**
+Le projet est conteneurisé avec Docker pour une meilleure gestion :
+
+![Plan de Conteneurisation](images/container_architecture.png)
+
+---
 ## Étapes principales du projet
 
 ### 1. Génération des données
@@ -25,9 +46,6 @@ Ce projet illustre une solution complète et intégrée pour l'analyse des vente
   - Intégration des données préparées depuis `Output.hyper`.
   - Mise en place de visualisations dynamiques pour explorer les tendances des ventes, les performances des produits, et les segments de clientèle.
 
-### 6. Présentation finale
-- Élaboration d'une présentation professionnelle dans `Presentation.pptx`, résumant les résultats du projet et proposant des recommandations stratégiques.
-
 ## Contenu du projet
 - **Scripts** :
   - `data_generation.py` : Génération des données brutes fictives.
@@ -38,10 +56,6 @@ Ce projet illustre une solution complète et intégrée pour l'analyse des vente
   - `Customer_Plan.png`, `Summary_Plan.png`, `ProductPlan.png`.
 - **Visualisations** :
   - `Sales_Dash.twb` : Tableaux de bord interactifs développés dans Tableau.
-- **Présentation** :
-  - `Presentation.pptx` : Synthèse et recommandations finales.
-- **Rapport** :
-  - `Rapport.pdf` : Documentation détaillée du projet, incluant les méthodologies, analyses, et conclusions.
 
 ## Pré-requis
 - **Python 3.x** : Pour exécuter le script de génération des données.
@@ -68,9 +82,6 @@ cd Analyse_et_Visualisation_des_Ventes_End-to-End
 1. Ouvrez `Sales_Dash.twb` dans Tableau Desktop.
 2. Connectez les tableaux de bord au fichier `Output.hyper`.
 3. Explorez les tableaux de bord interactifs pour analyser les performances des ventes.
-
-### 4. Présentation
-Ouvrez `Presentation.pptx` pour consulter ou personnaliser la synthèse et les recommandations du projet.
 
 ## Auteur
 Aya Laadaili
