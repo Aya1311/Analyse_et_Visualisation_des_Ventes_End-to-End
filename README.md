@@ -22,13 +22,13 @@ Voici les maquettes utilisées pour concevoir le tableau de bord :
 Le projet est conteneurisé avec Docker pour une meilleure gestion :
 
 ### 🔹 Vue d'ensemble du Dashboard
-![Dashboard Container Overview](Plan_Conteunerisation/Summary_plan.png)
+![Dashboard  Overview](Plan_Conteunerisation/Summary_plan.png)
 
 ### 🔹 Analyse des Clients
-![Customer Container Analysis](Plan_Conteunerisation/Customer_plan.png)
+![Customer  Analysis](Plan_Conteunerisation/Customer_plan.png)
 
 ### 🔹 Performances des Produits
-![Product Container Performance](Plan_Conteunerisation/Productplan.png)
+![Product  Performance](Plan_Conteunerisation/Productplan.png)
 
 ---
 ## Étapes principales du projet
